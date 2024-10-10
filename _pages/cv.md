@@ -61,7 +61,14 @@ Education
     - Drug Sciences
     - Computational analysis of high-throughtput sequencing data
     - Bioinformatics Project in clustering of RNA secondary structures using GNN encoders
+
 - **Deep Learning, MVA (Mathematiques, Vision, Apprentissage), ENS Paris-Saclay**, 2024-2025
+    Courses in Machinea Learning: 
+    - Reinforcement Learning
+    - Topological Data Analysis
+    - Time Series analysis
+    - Computational Statistics
+    - Convex Optimization
 
 Skills
 ======
