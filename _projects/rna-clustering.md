@@ -4,7 +4,7 @@ excerpt: "Implemented an encoder with distance loss to cluster RNA secondary str
 collection: projects
 ---
 
-You can find attach the [report](https://thomasloux.github.io/files/rna-clustering.pdf) and [code](https://github.com/thomasloux/rna-clustering)
+You can find attach the [report](https://thomasloux.github.io/files/rna-clustering.pdf) and [code](https://github.com/thomasloux/rna-clustering). Work done with Yann Ponty, Sebastian Will and Johannes Lutzeyer.\\
 
 RNA are essential molecules in the cell, playing a key role in the translation of the genetic code into proteins. They can fold into complex structures that are generally modelled as planar graphs, a graph where the nodes are connected by edges that do not cross each other, called the secondary structure.\\
 
@@ -14,7 +14,7 @@ For bioinformatician, analysis of large RNA databases is a common task, with the
 
 A strategy is to obtain a low-dimensional representation of the RNA secondary structure that captures the essential information for clustering using a GNN. K-Means clustering is then linear in the number of RNA.\\
 
-**PyTorch Geometric** is used to implement and train the GNN. The model used is a **Residual Gated Graph Convolutional Network (R-GCN)** with a distance loss:
+**PyTorch Geometric** is used to implement and train the GNN. The model used is a **Residual Gated Graph Convolutional Network** with a distance loss:
 
 $$
     \mathcal{L}_{distanceLoss} = (\Delta(E_1, E_2) - ||\mathbf{X}_{1,pool} - \mathbf{X}_{2, pool} ||)^2
