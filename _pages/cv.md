@@ -31,7 +31,7 @@ Work done with Yann Ponty, Sebastian Will and Johannes Lutzeyer. I use a GNN enc
 
 - **Fake News Detection**, Deep Learning Project, 2023
 Work done with Ekimetrics.
-In a team of 4, we train a Ensemble Model using Machine Learning algorithms (Linear Regression, XGBoost...), LSTM model with Word2Vec and BERT model to detect fake news on the dataset 'LIAR'. Bert achievs a 85% accuracy on the test set.
+In a team of 4, we train a Ensemble Model using Machine Learning algorithms (Linear Regression, XGBoost...), LSTM model with Word2Vec and BERT model to detect fake news on the dataset 'LIAR'. Bert achievs a 70% accuracy on the test set.
 
 - **Segmentation of lung cancer cells in 3D CT Scans**, Institut Polytechnique de Paris Medical Data (IPPMeD), 2023
 Work done in a team of 2. We build a 3D U-Net model using Monai framework to segment lung cancer. We obtain a F1 score (Dice Metric) of 0.5 on our test set and 0.37 on the hackathon test set. We achieve the 2nd best score on the hackathon.
