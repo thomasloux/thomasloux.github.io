@@ -13,7 +13,7 @@ Experience
 ======
 - **Research Intern, Shakhnovich Lab, Harvard University**, April 2024 - August 2024
     - Run well-tempered 100ns metadynamics for protein complex binding free energy prediction, using GROMACS and PLUMED on a Slurm HPC environment
-    - Evaluate energy minimization MD methods to predict binding free energy using ESM3 as encoder for SVM regressor: "Does Structural Information Improve ESM3 for Protein Binding Affinity Prediction?" Accepted at Machine Learning in Structural Biology Workshop at NeurIPS. I demonstrated a unexpected loss of around 0.2 Spearman Correlation using relaxed structures compared to wildtype structure.
+    - Evaluate energy minimization MD methods to predict binding free energy using ESM3 as encoder for SVM regressor: "Does Structural Information Improve ESM3 for Protein Binding Affinity Prediction?" Accepted at Machine Learning in Structural Biology Workshop at NeurIPS. I demonstrated an unexpected loss of around 0.2 Spearman Correlation using relaxed structures compared to wildtype structure.
 
 - **AI Software Engineer Intern, Pretto**, June 2023 - August 2023
     - Managed deployment and access control on platforms such as GCP, Azure AI, and Heroku.
