@@ -42,9 +42,12 @@ Le choix entre partir en métropole et rester à Tahiti dépend de tes aspiratio
 - Les avantages de rester à Tahiti : Rester à Tahiti peut te permettre de rester proche de ta famille et de ton environnement familier, ce qui peut être rassurant.
 
 Globalement, je conseillerais la chose suivante: partir en métropole si on a une plutôt bonne prépa. Sinon rester à Tahti sera mieux pour la motivation. Une bonne prépa permet de mieux pousser le cours, parce que le niveau moyen de la classe le permet plus facilement. Il y a aussi plus de préparations pour les meilleures concours et plus de retours d'expériences d'anciens élèves. A toi de voir ce qui te correspond le mieux bien sûr, et il ne faut pas prendre mes conseils comme des vérités absolues.
+Pour un témoignage plus détaillé d'un étudiant ayant fait sa prépa à l'UPF et 5/2 en métropole: [Marama](/files/prepa/marama/upf-france.pdf)
 
 ## Exemples de parcours
 Voici les réponses de Parcoursup de plusieurs étudiants venant de Polynésie Française:
 - [Thomas Loux](/files/prepa/loux/parcoursup.pdf): La Mennais, MPSI-MP* au Lycée du Parc, Ecole polytechnique
 - [Camylle](/files/prepa/camylle/parcoursup.pdf): La Mennais, MPSI au Lycée du Parc
 - [Charles](/files/prepa/charles/parcoursup.pdf): Gauguin, MPSI-MP* au Lycée Saint Geneviève, Ecole polytechnique
+- [Marama](/files/prepa/marama/parcoursup.pdf): La Mennais, CUPGE UPF MPSI-MP, 5/2 Chaptal MP*, ENSAE
+- [Florian](/files/prepa/florian/parcoursup.pdf): Raapoto, PCSI-PC à Saint Louis, EDHEC (oui c'est possible)
