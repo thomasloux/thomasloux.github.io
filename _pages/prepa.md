@@ -46,3 +46,5 @@ Globalement, je conseillerais la chose suivante: partir en métropole si on a un
 ## Exemples de parcours
 Voici les réponses de Parcoursup de plusieurs étudiants venant de Polynésie Française:
 - [Thomas Loux](/files/prepa/loux/parcoursup.pdf): La Mennais, MPSI-MP* au Lycée du Parc, Ecole polytechnique
+- [Camylle](/files/prepa/camylle/parcoursup.pdf): La Mennais, MPSI au Lycée du Parc
+- [Charles](/files/prepa/charles/parcoursup.pdf): Gauguin, MPSI-MP* au Lycée Saint Geneviève, Ecole polytechnique
