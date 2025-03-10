@@ -51,3 +51,4 @@ Voici les réponses de Parcoursup de plusieurs étudiants venant de Polynésie F
 - [Charles](/files/prepa/charles/parcoursup.pdf): Gauguin, MPSI-MP* au Lycée Saint Geneviève, Ecole polytechnique
 - [Marama](/files/prepa/marama/parcoursup.pdf): La Mennais, CUPGE UPF MPSI-MP, 5/2 Chaptal MP*, ENSAE
 - [Florian](/files/prepa/florian/parcoursup.pdf): Raapoto, PCSI-PC à Saint Louis, EDHEC (oui c'est possible)
+- [Pierre](/files/prepa/pierre/parcoursup.pdf), [Bac](/files/prepa/pierre/bac.pdf), [Bulletin de terminal](/files/prepa/pierre/bulletin.pdf): La Mennais, PCSI-PC à Saint Louis, ENAC. 
