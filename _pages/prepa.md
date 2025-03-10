@@ -48,7 +48,7 @@ Pour un témoignage plus détaillé d'un étudiant ayant fait sa prépa à l'UPF
 Voici les réponses de Parcoursup de plusieurs étudiants venant de Polynésie Française:
 - [Thomas Loux](/files/prepa/loux/parcoursup.pdf): La Mennais, MPSI-MP* au Lycée du Parc, Ecole polytechnique
 - [Camylle](/files/prepa/camylle/parcoursup.pdf): La Mennais, MPSI au Lycée du Parc
-- [Charles](/files/prepa/charles/parcoursup.pdf): Gauguin, MPSI-MP* au Lycée Saint Geneviève, Ecole polytechnique
+- [Charles](/files/prepa/charles/parcoursup.pdf), [Bulletin](/files/prepa/charles/bulletin.pdf): Gauguin, MPSI-MP* au Lycée Saint Geneviève, Ecole polytechnique
 - [Marama](/files/prepa/marama/parcoursup.pdf): La Mennais, CUPGE UPF MPSI-MP, 5/2 Chaptal MP*, ENSAE
 - [Florian](/files/prepa/florian/parcoursup.pdf): Raapoto, PCSI-PC à Saint Louis, EDHEC (oui c'est possible)
 - [Pierre](/files/prepa/pierre/parcoursup.pdf), [Bac](/files/prepa/pierre/bac.pdf), [Bulletin de terminal](/files/prepa/pierre/bulletin.pdf): La Mennais, PCSI-PC à Saint Louis, ENAC. 
